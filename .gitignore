@@ -1,0 +1,7 @@
+output-*/
+packer_cache/
+*.iso
+*.qcow2
+*.vhdx
+*.ipsw
+.env
